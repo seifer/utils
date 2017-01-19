@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "Goto Definition",
+        "command": "gs_doc",
+        "args": {"mode": "goto"}
+    },
+]
