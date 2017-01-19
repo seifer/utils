@@ -1,5 +1,7 @@
-# utils
-GoSublime config
+## utils
+# GoSublime config
+
+```javascript
 {
     "env": {
         "GOPATH": "$HOME/go",
@@ -23,3 +25,4 @@ GoSublime config
         {"cmd": ["go", "vet"]},
     ],
 }
+```
