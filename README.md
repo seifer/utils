@@ -1,7 +1,7 @@
-## utils
-# GoSublime config
+# utils
+## GoSublime config
 
-```javascript
+```json
 {
     "env": {
         "GOPATH": "$HOME/go",
